@@ -1,3 +1,12 @@
 [submodule "II-P01-Introduction-to-Unity"]
 	path = II-P01-Introduction-to-Unity
 	url = https://github.com/danielmdzrgz/II-P01-Introduction-to-Unity.git
+[submodule "II-P02-Introduction-To-CSharp"]
+	path = II-P02-Introduction-To-CSharp
+	url = https://github.com/danielmdzrgz/II-P02-Introduction-To-CSharp.git
+[submodule "II-P03-Physics"]
+	path = II-P03-Physics
+	url = https://github.com/danielmdzrgz/II-P03-Physics.git
+[submodule "II-P04-Events"]
+	path = II-P04-Events
+	url = https://github.com/danielmdzrgz/II-P04-Events.git
