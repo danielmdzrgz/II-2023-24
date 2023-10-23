@@ -10,3 +10,6 @@
 [submodule "II-P04-Events"]
 	path = II-P04-Events
 	url = https://github.com/danielmdzrgz/II-P04-Events.git
+[submodule "II-P05-Cardboard-SDK"]
+	path = II-P05-Cardboard-SDK
+	url = https://github.com/danielmdzrgz/II-P05-Cardboard-SDK.git
