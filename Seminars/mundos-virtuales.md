@@ -120,7 +120,7 @@ Matriz de Cambio al Sistema de Referencias Mundial:
 Si tienes un objeto con Position (3, 1, 1) y Rotation (45, 0, 45), la matriz de transformación que representa estas transformaciones en relación al sistema de referencia mundial es simplemente su matriz ```localToWorldMatrix```. La rotación se aplica usando quaterniones, por lo que ```Quaternion.Euler(45, 0, 45)``` te da la rotación deseada.
 
 ## Participantes
-Julio Ruzicka Ruzicka
-Daniel Méndez Rodríguez
-José Lozano Armas
-José Gregorio Dorta Luis
+- Julio Ruzicka Ruzicka
+- Daniel Méndez Rodríguez
+- José Lozano Armas
+- José Gregorio Dorta Luis
