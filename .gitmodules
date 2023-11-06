@@ -13,3 +13,6 @@
 [submodule "II-P05-Cardboard-SDK"]
 	path = II-P05-Cardboard-SDK
 	url = https://github.com/danielmdzrgz/II-P05-Cardboard-SDK.git
+[submodule "II-Exam-VR"]
+	path = II-Exam-VR
+	url = https://github.com/danielmdzrgz/II-Exam-VR.git
