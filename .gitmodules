@@ -16,3 +16,6 @@
 [submodule "II-Exam-VR"]
 	path = II-Exam-VR
 	url = https://github.com/danielmdzrgz/II-Exam-VR.git
+[submodule "II-P06-Augmented-Reality"]
+	path = II-P06-Augmented-Reality
+	url = https://github.com/danielmdzrgz/II-P06-Augmented-Reality.git
