@@ -19,3 +19,6 @@
 [submodule "II-P06-Augmented-Reality"]
 	path = II-P06-Augmented-Reality
 	url = https://github.com/danielmdzrgz/II-P06-Augmented-Reality.git
+[submodule "II-P08-Camera-Microphone"]
+	path = II-P08-Camera-Microphone
+	url = https://github.com/danielmdzrgz/II-P08-Camera-Microphone.git
