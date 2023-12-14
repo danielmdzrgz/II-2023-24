@@ -22,3 +22,9 @@
 [submodule "II-P08-Camera-Microphone"]
 	path = II-P08-Camera-Microphone
 	url = https://github.com/danielmdzrgz/II-P08-Camera-Microphone.git
+[submodule "II-P09-Sensors"]
+	path = II-P09-Sensors
+	url = https://github.com/danielmdzrgz/II-P09-Sensors.git
+[submodule "II-P07-AR-Foundation"]
+	path = II-P07-AR-Foundation
+	url = https://github.com/danielmdzrgz/II-P07-AR-Foundation.git
