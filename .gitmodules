@@ -28,3 +28,6 @@
 [submodule "II-P07-AR-Foundation"]
 	path = II-P07-AR-Foundation
 	url = https://github.com/danielmdzrgz/II-P07-AR-Foundation.git
+[submodule "II-P10-Voice-Recognition"]
+	path = II-P10-Voice-Recognition
+	url = https://github.com/danielmdzrgz/II-P10-Voice-Recognition.git
